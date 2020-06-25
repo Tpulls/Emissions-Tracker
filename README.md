@@ -1,5 +1,5 @@
 <https://github.com/Tpulls/Emissions-Tracker>
-# Emission Tracker Project
+# Emissions Tracker Project
 
 This project was created in the TAFE Course, Diploma of Software Development in Semester 1.
 Project Initial Commit Date: 26/06/2020.
